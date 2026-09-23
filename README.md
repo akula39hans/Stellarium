@@ -221,4 +221,4 @@ Stellarium is offered as a full and complete free version, with all features and
 Don't miss the chance to explore the universe with Stellarium. Download your free copy today and embark on an astronomical journey!
 
 ---
-**Last updated:** 2026-09-23 05:42:05 UTC
+**Last updated:** 2026-09-23 11:10:43 UTC
